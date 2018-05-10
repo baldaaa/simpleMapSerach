@@ -1,0 +1,47 @@
+
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.katia.mylocations.SettingsFragment"
+    android:columnCount="2">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/distanceMeasure" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/spinnerKmOrMiles"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:text="@string/clearHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_rowSpan="1"
+        android:id="@+id/btnDeleteHistory"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/background_light" />
+    <Button
+        android:text="@string/deleteFavorites"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_rowSpan="1"
+        android:id="@+id/btnDeleteFavorites"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/background_light" />
+
+</GridLayout>

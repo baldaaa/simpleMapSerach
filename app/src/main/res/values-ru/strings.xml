@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нужные места</string>
+    <string name="action_settings">Установки</string>
+    <string name="addedToFavorites">добавлено в Избранные</string>
+    <string name="cancel">Отменить</string>
+    <string name="clearHistory">Удалить историю</string>
+    <string name="continue_delete">Продолжить удаление?</string>
+    <string name="delete">Удалить</string>
+    <string name="deleteFavorites">Удалить Избранные</string>
+    <string name="distanceMeasure">Показывать расстояние в</string>
+    <string name="favorites">Избранные</string>
+    <string name="km">км</string>
+    <string name="mi">ми</string>
+    <string name="openHoursList">Часы работы:</string>
+    <string name="phonesList">Тел:</string>
+    <string name="removed">удален</string>
+    <string name="searchSpecify"></string>
+    <string name="searches">Поиск</string>
+    <string name="serviceUnavalable">Сервис недоступен</string>
+    <string name="serviceUnavalableLong">Сервис недоступен</string>
+    <string name="settings">Установки</string>
+    <string name="shareLocation">Отправить...</string>
+    <string name="title_activity_locations">Нужные места</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="undo">Отменить</string>
+    <string name="looking_for_places">Поиск подходящих мест...</string>
+</resources>

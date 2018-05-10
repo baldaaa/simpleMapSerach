@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mapLayout">
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.example.katia.mylocations.MapActivity"/>
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/imageLayout"
+                android:background="@color/colorAccent"
+                android:layout_gravity="bottom|right"
+                android:padding="3dp"
+                android:animateLayoutChanges="true">
+            </LinearLayout>
+        </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/dataLayout"
+            android:background="@color/colorAccent"
+            android:padding="3dp"
+            android:animateLayoutChanges="true"
+            android:layout_width="200dp"
+            android:layout_gravity="left"
+            android:alpha="0.8">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textTitle"
+
+                android:textSize="18sp"
+                android:textStyle="normal|bold"
+                android:layout_weight="1"
+                android:textColor="@android:color/background_light"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:id="@+id/textVinicity"
+                android:layout_weight="1"
+                android:textColor="@android:color/background_light"
+                android:textAlignment="center" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textAddress"
+                android:layout_weight="1"
+                android:textColor="@android:color/background_light"
+                android:textAlignment="center" />
+
+            <RatingBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ratingBar"
+                android:layout_weight="1"
+                style="@style/Widget.AppCompat.RatingBar.Small"
+                android:numStars="5"
+                android:layout_gravity="center" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:layout_weight="1">
+                <TextView
+                    android:text="@string/phonesList"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+
+                    android:textColor="@android:color/background_light"
+                    android:textAlignment="center"
+                    android:textStyle="normal|bold" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textInternationalPhone"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/background_light"
+                    android:textAlignment="gravity"
+                        android:gravity="right" />
+
+                    <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textPhone"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/background_light"
+                    android:textAlignment="gravity"
+                        android:gravity="right" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:layout_weight="1">
+                <TextView
+                    android:text="@string/openHoursList"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/background_light"
+                    android:textAlignment="center"
+                    android:textStyle="normal|bold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:id="@+id/textHours"
+                    android:textColor="@android:color/background_light"
+                    android:textAlignment="gravity"
+                    android:textSize="12sp"
+                    android:gravity="right" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/stepsLayout"
+            android:animateLayoutChanges="true"
+            android:visibility="gone">
+
+        </RelativeLayout>
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_gravity="top|right"
+            android:id="@+id/funkLayout"
+            android:animateLayoutChanges="true"
+            android:layout_width="80dp"
+            android:layout_height="190dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/btnFun"
+                android:layout_marginBottom="5dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    map:srcCompat="@drawable/steps"
+                    android:id="@+id/imageView6" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/btnAddToFavorites">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    map:srcCompat="@drawable/favorites"
+                    android:id="@+id/imageView2" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    map:srcCompat="@drawable/bluemarker"
+                    android:id="@+id/imageView3"
+                    android:layout_marginTop="35dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="25dp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/btnShare">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    map:srcCompat="@drawable/share"
+                    android:id="@+id/imageView5" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    map:srcCompat="@drawable/redmarker"
+                    android:id="@+id/imageView4"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="35dp" />
+            </FrameLayout>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>
+</FrameLayout>

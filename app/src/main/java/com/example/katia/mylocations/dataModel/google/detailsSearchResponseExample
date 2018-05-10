@@ -1,0 +1,310 @@
+{
+  "html_attributions" : [],
+  "result" : {
+    "address_components" : [
+      {
+        "long_name" : "13",
+        "short_name" : "13",
+        "types" : [ "street_number" ]
+      },
+      {
+        "long_name" : "ulitsa Bolshaya Lubyanka",
+        "short_name" : "ul. Bolshaya Lubyanka",
+        "types" : [ "route" ]
+      },
+      {
+        "long_name" : "Tsentralnyy administrativnyy okrug",
+        "short_name" : "Tsentralnyy administrativnyy okrug",
+        "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+        "long_name" : "Moskva",
+        "short_name" : "Moskva",
+        "types" : [ "locality", "political" ]
+      },
+      {
+        "long_name" : "gorod Moskva",
+        "short_name" : "g. Moskva",
+        "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+        "long_name" : "Moscow",
+        "short_name" : "Moscow",
+        "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+        "long_name" : "Russia",
+        "short_name" : "RU",
+        "types" : [ "country", "political" ]
+      },
+      {
+        "long_name" : "107031",
+        "short_name" : "107031",
+        "types" : [ "postal_code" ]
+      }
+    ],
+    "adr_address" : "\u003cspan class=\"street-address\"\u003eul. Bolshaya Lubyanka, 13\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMoskva\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eRussia\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e107031\u003c/span\u003e",
+    "formatted_address" : "ul. Bolshaya Lubyanka, 13, Moskva, Russia, 107031",
+    "formatted_phone_number" : "8 (495) 624-93-77",
+    "geometry" : {
+      "location" : {
+        "lat" : 55.76409160000001,
+        "lng" : 37.6291658
+      },
+      "viewport" : {
+        "northeast" : {
+          "lat" : 55.7641131,
+          "lng" : 37.62952880000001
+        },
+        "southwest" : {
+          "lat" : 55.7640271,
+          "lng" : 37.6290448
+        }
+      }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id" : "a3f451fd11e46ca8d25a1013bfadcff77b7a64c1",
+    "international_phone_number" : "+7 495 624-93-77",
+    "name" : "Stariki",
+    "opening_hours" : {
+      "open_now" : true,
+      "periods" : [
+        {
+          "close" : {
+            "day" : 1,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 0,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 2,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 1,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 3,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 2,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 4,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 3,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 5,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 4,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 6,
+            "time" : "0000"
+          },
+          "open" : {
+            "day" : 5,
+            "time" : "1200"
+          }
+        },
+        {
+          "close" : {
+            "day" : 0,
+            "time" : "0600"
+          },
+          "open" : {
+            "day" : 6,
+            "time" : "1200"
+          }
+        }
+      ],
+      "weekday_text" : [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 6:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ]
+    },
+    "photos" : [
+      {
+        "height" : 446,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAI6Xc5BLniFqFHjC_-W9mU-bLlGP_Y9FaqgDMR3cVUZrFD11BcnFu2ZpbvuNo1YitViNZpkaonabHjiW-6QlZi96f8fYIaNQSttiNvV6CNyxL45fae-WYk3rP5WsEm4eUdGirfj5GTo2cQ7Vx68ZOLzP6Gq5jFgz75ORe5uVqUxZEhDWNnNpg9XN1nqokqpoJZw3GhT5VNwLj2y3PFkU56XKm3FLunZNAg",
+        "width" : 670
+      },
+      {
+        "height" : 374,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAJj8KdN_1egdzzhUHthmeaF8srSgusnWjBAGvhrmDHq0e1ZLIbY_UjUmxHJJiBdLOpu0XGpbWTs8wibeZW1JcCjF0cdmxMhieloeLKKuUJXl1mOmaK548il6EblbdFopedKHn0R_K3i9WgYtgHyH6j4UTte3pfXS-xKKijWOHf4qEhBlvTypsRrQl9g2y0rTxHsrGhStlsKg5koCvJt0PHpIq94CKExNMQ",
+        "width" : 562
+      },
+      {
+        "height" : 469,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAHys_pwmgJ7ntwgwcxjBVITlja8QnyE-nBjDhrpAnXV0y4WiYqUd8d28roxESEod3LVEUXD29T5fpWaQkK_NVkDAWe6sEqC8oU-MHINNrtUm5btJOQx6i91E38_KpHKo8Ia0VOcrqxqPs5SkX4LnI1Ynoo3nxa0hKqfOtkdT1gGoEhDsKMbPhmBlSvMWflfdQjtIGhSj_LMyNa8C7WnTg2mvoAzvvRG_Ng",
+        "width" : 703
+      },
+      {
+        "height" : 401,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAACKSWyYyk-M0l3azwPRGSekOMZtbWsePX5g16hlQR2MmXy2aEjBJar-KcpbpHL85_C1axi_WNU2Ew__IVDYOuuc5fLJElg2rW1ipB7WoNrpkn2gRfsnjTdBD-A0ASbEQFZbmkvxd7r4XCYkiJEXf88A6dz5QcELjnZa-f0QkAXVtEhBWtx-IG9UvrY8IKrL9fiivGhTej5snTqPODoWdIzD4bS5YYGN7rw",
+        "width" : 601
+      },
+      {
+        "height" : 410,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAHwL-IrDt3z1EWQ7r9QmODlThEjy0KKVE1rYMa-hVs0exT8ecuGMsbGhO-6iAj7u8YQCXZ-HOf3BtKT-6WrGnTt5ihf8IcP8KZ7LetzP2CI7k0g8TwUI4ljKIPhNmuAbWvw8zOY-hhXdc2jhKkUAfWXUHjXZ2G3BWNVfsPXhih4rEhCYWfJh1sAmoRk3wiLTUJYGGhRLnlKKuXzBUAXBuwFIr4C5lygUcA",
+        "width" : 273
+      },
+      {
+        "height" : 374,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAFxXmZ24MG6uN7aFq38L74Fo4aiezEjAZUbstUPwOo3OYSQE-UYkZSSLgPOg6iyfnNMVXyYeR-RBFwGuq1hCn3B-lADBUjkX3yCh9QeX0tepjeqMYkXBg-1TcLf0wMVmR_onIxo43amxod1IhlnVHG37hQltdDmW7lzY3ZXa9G7mEhDcX9n3BZyo3VSayITqOgqkGhSU-NEn6LiE4JCp34G1FoHhnmuk7w",
+        "width" : 562
+      },
+      {
+        "height" : 412,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113570035962460288243/photos\"\u003eStarики Bar\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAANlDQ2HW_bTS17khhKLjT2PUWtsH6M--N14yVvt9UZR8hgKdN7aW79ym20u9EEqaq3gDj_chR6SKwuM4XQyTYP5ONzI7aNu39YOMTyF-YRgqVy3eUM6eUmLhpxmecw9ahaGl_DBcUiwlfYEP-AMSJ8eFuwoMB79rbdjN1S5sRP8GEhBHoJHgm2toLkhcNX149HB2GhTK8n9d4pwHDfxt9kRgh3_yefUmmg",
+        "width" : 618
+      }
+    ],
+    "place_id" : "ChIJbfOKiWdKtUYRp9mOqtxk-1g",
+    "rating" : 4.6,
+    "reference" : "CmRRAAAAgapGEtlmOwScRLXacc8NzpKPwYnvx_lTj1LOsC3oFkyoJex6jomDBmKRAi0Jn-gBnJ8c8yyojlD22jfxx6_jhO2wX-6Yd2srpT0ntc5hZ7UN8BLkYcczSdQeKRaw7aViEhAOsGFoUX8DVctFYwtnfa4wGhTA8OsG3EJLzJoJKQD37J_R8eGSMw",
+    "reviews" : [
+      {
+        "aspects" : [
+          {
+            "rating" : 3,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Kirill Petrov",
+        "author_url" : "https://www.google.com/maps/contrib/109267888768956951150/reviews",
+        "language" : "en",
+        "profile_photo_url" : "//lh3.googleusercontent.com/-ERQyn8mhPMw/AAAAAAAAAAI/AAAAAAAAAQo/JQkbY_QSqRI/photo.jpg",
+        "rating" : 5,
+        "relative_time_description" : "9 months ago",
+        "text" : "Great place!",
+        "time" : 1457203040
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 2,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Алексей",
+        "author_url" : "https://www.google.com/maps/contrib/114133428784399348582/reviews",
+        "language" : "ru",
+        "rating" : 4,
+        "relative_time_description" : "7 months ago",
+        "text" : "В первый год открытия - хороший бар был, потом все спокойнее и спокойнее.. увы(",
+        "time" : 1462366165
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 3,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Ruslan Panasenko",
+        "author_url" : "https://www.google.com/maps/contrib/112938088305512719380/reviews",
+        "language" : "ru",
+        "rating" : 5,
+        "relative_time_description" : "8 months ago",
+        "text" : "Просторное место, вкусная еда и напитки, хорошее местоположение.",
+        "time" : 1459769636
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 2,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Руслан Хусаинов",
+        "author_url" : "https://www.google.com/maps/contrib/116259616090346517802/reviews",
+        "language" : "ru",
+        "profile_photo_url" : "//lh4.googleusercontent.com/-h_yd2_QpT_s/AAAAAAAAAAI/AAAAAAAABmY/zvr3cxIXjb8/photo.jpg",
+        "rating" : 4,
+        "relative_time_description" : "a month ago",
+        "text" : "Не плохо )",
+        "time" : 1478531169
+      },
+      {
+        "aspects" : [
+          {
+            "rating" : 3,
+            "type" : "overall"
+          }
+        ],
+        "author_name" : "Victoria Gaponova",
+        "author_url" : "https://www.google.com/maps/contrib/104890256980597453782/reviews",
+        "language" : "ru",
+        "profile_photo_url" : "//lh5.googleusercontent.com/-EwYSnXJz_Dk/AAAAAAAAAAI/AAAAAAAABCs/_JUYswncpfM/photo.jpg",
+        "rating" : 5,
+        "relative_time_description" : "4 years ago",
+        "text" : "Весьма приятное местечко для проведения досуга в компании друзей и не только. Симпатично, не напрягающая слух музыка, приличная кухня и большой арсенал различных настольных игр! ",
+        "time" : 1347104602
+      }
+    ],
+    "scope" : "GOOGLE",
+    "types" : [
+      "cafe",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url" : "https://maps.google.com/?cid=6411829393409104295",
+    "utc_offset" : 180,
+    "vicinity" : "ulitsa Bolshaya Lubyanka, 13, Moscow",
+    "website" : "http://starikibar.ru/"
+  },
+  "status" : "OK"
+}

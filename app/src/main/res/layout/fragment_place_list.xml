@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp">
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:id="@+id/editSearch"
+            android:layout_weight="10"
+            android:hint="@string/searches"
+            android:paddingRight="5dp"
+            android:textSize="16sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="30dp"
+
+            android:paddingBottom="7dp"
+            android:paddingTop="7dp" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerDistance"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textMeasure"
+            android:text="@string/km"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/search"
+            android:id="@+id/imageSearch"
+            android:layout_weight="2"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="1dp" />
+
+
+
+
+    </LinearLayout>
+
+
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/list"
+    android:name="com.example.katia.mylocations.SearchFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutManager="LinearLayoutManager"
+    tools:context="com.example.katia.mylocations.SearchFragment"
+    tools:listitem="@layout/fragment_place" />
+
+</LinearLayout>

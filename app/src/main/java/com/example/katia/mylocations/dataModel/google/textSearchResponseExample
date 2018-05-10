@@ -1,0 +1,666 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "formatted_address" : "ul. Kuznetskiy Most, 4/3, Moscow, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7609276,
+          "lng" : 37.6166309
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76099479999999,
+            "lng" : 37.61670994999999
+          },
+          "southwest" : {
+            "lat" : 55.7607824,
+            "lng" : 37.61639375
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "3dc0218ec42d0b8aa5caf0867971a732671b78f7",
+      "name" : "Let's Rock Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3088,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106995001923668072993/photos\"\u003eIvan Е\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAADkkH2EY0rmwBYkoEvCWpjaXYQ_rBKU7Ic7I1B-bvwYjnwl28OKT5n6k8YU9ui4tILjH3tm_yYnosPYmMUt6meMYBgX4Jzm76aTGveXiSHA3W20S0WDDrTPksFn6Wx3kcHLpr8PrJtmLvUt3CoxJ__3gVl8ihKkOh1_pslSJ62yWEhAhDs291GbQAz7LAnIBi6R8GhQhfniWMq_XgQwz1tNRS3SOs7gWMA",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJfR3tvERKtUYRJ46Jcp_lRQ0",
+      "rating" : 4.1,
+      "reference" : "CmRRAAAAwlfXGk9wwiK9fFoeQKLcgRg_GAxiycKXjZxnlp2MbTyBHz26UzV4y-pWO2kacYM8bT80bCOikS5gFoxpifGlZ3XuNoabYcPIN8FGjeWABdwEUYqLz3hj_Fj_wpNpJSJqEhCA-Xo2e6M6evET87byOeBmGhTNjKnPadmbNr1L1iDxsG95MUya4Q",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Slavyanskaya Square, 2/5/4, стр. 3, Moscow, Russia, 109074",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.753052,
+          "lng" : 37.635141
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.75403465,
+            "lng" : 37.6353514
+          },
+          "southwest" : {
+            "lat" : 55.75272445,
+            "lng" : 37.6345098
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "8aaae22145b34d0ac822d47a1b6b0102c8462fe3",
+      "name" : "Stay True Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109301761357417235755/photos\"\u003eВасиль Быков\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAAqdcUHzz2wCQg0tK71McBjEKmPGBDqxsNSTP9nvAdFOBwGnPVAZ-YbEHNgez6y_MbbHiED0LfL42nT4ENNdg3-Bo_c1UQFrHrywpWpzt6WAWz2rzFFsXNV9k0z9wDjOjjVK3Q_JPHDf0UR2f17r4j8mqKNEak-X9aAnVu2kc8oaEhBYcCFKBJC5tP1Tuaw2i7coGhQkydHebaQX49O1egLiJxFGZZONAA",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJGbMaOfZKtUYRiUTVZLHPfVU",
+      "rating" : 4,
+      "reference" : "CmRRAAAACpMSVSGjsCOUA5d7WQLpFecYjQXyJyLkGgViX05PrwykgCPEjO9qlNIH1O8yhIVwqQnE_0DhYr15PaO-BFallLFnFVMyqKv55HDJBnB-VYEwXFMHvR-9vzalnDkk5rBiEhAXcKKrAMHGHmkqgGh1eV1IGhSVVGwnNXiJiGQZJxg3v5lCLjLj8g",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Pyatnitskaya ul., 3/4 стр. 1, Moscow, Russia, 115035",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.74559060000001,
+          "lng" : 37.62716
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.74567015,
+            "lng" : 37.62729895
+          },
+          "southwest" : {
+            "lat" : 55.74535194999999,
+            "lng" : 37.62674315
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "b2ad5d553f75905907dd4bce263c563e775efd76",
+      "name" : "Mitzva bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 445,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107470091084233953487/photos\"\u003eMitzva Bar\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAALqf6SDB9xTPB7P1Q10REs_NparngJ_rQ-_sxL4xO1Sn3zEJKljTVUOcOYGfC-pv-PrNkLVJ99OIDHYcxlTnDpgvhDZ-id_dQMpgoPHtsz81OiNghxB5Zoa7R39btmCp-XJk1CvDiP9KR9NZ_7_uG-YjJpaVG3XWQJYnr22mjsdNEhBu5t0AoKI8cTiU_s4xc9N8GhSzJKy6KBhRkQmPdMrMZJE58qwo3Q",
+          "width" : 446
+        }
+      ],
+      "place_id" : "ChIJDbH9K_lKtUYRnxE1TOybxZs",
+      "rating" : 4.7,
+      "reference" : "CmRSAAAAo1bUY6-wChumqgsX6pQShH-cUhsgEC4EtLFzm95vamEqM-qkM5_4qoLMb8t_NcTPgMR8AOpMSKcvaeqxiSxXMfcM5c7EytuZp1lG4jLucWPFuOQWkUHjDDwfEH2QRkZZEhAeeaxw-3FShRbQExKvBKA7GhRMFsMLCTGKthzP_P9yp289rTSw7w",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Bolshoy Spasoglinishchevskiy per., 3 стр. 5, Moscow, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7563446,
+          "lng" : 37.6353173
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.75638745000001,
+            "lng" : 37.63540915
+          },
+          "southwest" : {
+            "lat" : 55.75621605,
+            "lng" : 37.63504174999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "a5b815e3dc64e19fa8100df540c1852011339e62",
+      "name" : "Lumberjack Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112323175901438170200/photos\"\u003eKirill Serovetnik\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAKTlIKHTXZ15eR_eKbqkSVmHot0zzg1UXxUgnXxURhsmsK7bqSbCbC2U8QHEoql5SjH9r_nShuvnkHhCONEEoBw-Dd7PTjAisHkYxocQZVKUWDTa0d0ZRg2Rtpb97S-E4uEnk7q5eKpxPmQnyvWuB3zY6DF14O5Yda2BDHrIbu8LEhBz-RLjGRbZF1oRIJj3cA8qGhTJzYuy9A2aexf1tJ5AhaHwSZvBQg",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJTQKZRl9KtUYRhzJZwBQUjQs",
+      "rating" : 4.6,
+      "reference" : "CmRRAAAAoKEva-iS7F8GW77JMewx7fn2sJglsAy7iGZfFgqzyVpZY1F1FrR65kG8CKSYMC4smfhn0tsV6yxRR_2hLTc0-WmznmEEpE4pEigByELFkv19_q_rifgDq89QtPJJjUOpEhD9m2COmEM50k3cMHSiYgunGhTlKl8TZg5RY1OZTbxHcrfYszqmVA",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Sretensky Blvd, 6/1, Moscow, Russia, 101000",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7657817,
+          "lng" : 37.6356015
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76582220000001,
+            "lng" : 37.63568225
+          },
+          "southwest" : {
+            "lat" : 55.7657682,
+            "lng" : 37.63535924999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "6801d5d757e99c515c2435450dc98954e6b17704",
+      "name" : "Crazy Daisy",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104851248054166557514/photos\"\u003eПавел Блюденов\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAFtQ-YTTNANNOSdoFOmT_pMvVUton9vJr8CUUSR7dJTtAQnOeaFQ1_2U4a821tIxtsCEio-w2JjtGhnLFEUhzHsfOXnfpBg98dEWEDUuVJer3KLCKtqlrHmL3s71YNOgUz9DUkVssN2NRfaJN8AHObaRsAoN0roIMADztmGEBzhNEhA_3qM7lz2kPanzTAKwvCWvGhQ7loEBDkuiyx_ZFsz9AO_pggxkww",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJpWeXTm9KtUYRKsHzfbTRmHs",
+      "price_level" : 3,
+      "rating" : 3.3,
+      "reference" : "CmRRAAAAEgeeYXUHPooXlAfcllWWTedmLYEt92V1ggITMeH6KU7tE_S5vfC-prvG-PmGYwMnHhq5WxaKpCP0vKISzvPfID9OWtbjejP_1weUeryED2AuSWXouGAk97B51DLBXndWEhBxzZ7mbuTK0G8dPSkhIlzVGhRd-51eVXfHAUsieDAUC3Ux5sGJgA",
+      "types" : [ "night_club", "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "per. Sverchkov, 8, Moscow, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.760199,
+          "lng" : 37.639943
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76061074999999,
+            "lng" : 37.64015799999999
+          },
+          "southwest" : {
+            "lat" : 55.76006175000001,
+            "lng" : 37.639298
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "d32e7d5daab562e701697867aa8318db314bc523",
+      "name" : "Suzuran",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107171416339308305381/photos\"\u003eOlya Pishcheva\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAAVpZaAElVBEnGVb71tdEY9yG_vzdzZgvd8sdMgdGHJv7t_qnjAWy7kpoDVDAVsanmfXPOZRjFogrNEzlfPwV9TgPPGQG9kxLxWuj8VT0P0j5XtHmyjVl5Cw2VVHCjhvgeMSO4thlmXICCVS9N8yyJuwLjZHDEHI3GVKZPrCtCwqEhC6BeblSPwB_PkPqNTUGWdEGhSvuFTcONj9nZ6HWPhcMM6nR3ZKhg",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJIwlcdmBKtUYR52nmEe0z94I",
+      "rating" : 4.7,
+      "reference" : "CmRSAAAA2AZQ8IiNugXR600U3WXrmE8PozdZa0eAayx-jAQJeTc116UgxqO4tnEDJ2JeaX--XMqqqraM6icvP1LTrLQdDiolOUSVcoLcyUhEpIUbookRBEvjudxpbAEevXBaoWLmEhDBilQw8Ms7frzlx5C0MeO2GhS9fHjiCWt25Q2QcBHhDthiZNWpyQ",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Strastnoy Blvd, 8а, Moscow, Russia, 125009",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.76648969999999,
+          "lng" : 37.6106019
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.7667513,
+            "lng" : 37.610728
+          },
+          "southwest" : {
+            "lat" : 55.76640249999999,
+            "lng" : 37.6102236
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "4c09a84969b21281c75085d6a0366bb0983c736f",
+      "name" : "Babylon",
+      "place_id" : "ChIJY75FEEFKtUYR8pWIVJUvZIk",
+      "reference" : "CmRSAAAAbUkeipUSzOsbTJ73OTVGsxTdUsmQ1uiDfXEW-ZCGkA-or9lQ9lELGvqb6dZNyCc3YOYXShZC_ao3fMcz4z3WcgLHGCFeUYlcKiozKGA5_GYTk-bSU359-uRtM-Cue64hEhCQrMGGmezugT2GHofDQx1fGhQDQtr-VP37TrmiCJNWrXzhlW-DTA",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Pokrovskiy b-r, 6/20, Moscow, Russia, 109028",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7576142,
+          "lng" : 37.6463265
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.75776075,
+            "lng" : 37.6466274
+          },
+          "southwest" : {
+            "lat" : 55.75756535,
+            "lng" : 37.64622620000001
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "e49c36532a6cc71830d70cde49ed31e1134b4fae",
+      "name" : "Mono Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104394049038298036986/photos\"\u003eОко Лица\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAGGYigqe2KLMrU9m4ZIzp-7Wh-bjUiuBjJBL32nxlGh107PQLmoiL3IQ2T-bihw14SMtRpNNHzUjBiOcOaO2gqP6fF-wumC4uy3px5qMP4OERsZ5EQhy22jyIif34ZoGu7v8m-JOYssi-ARbw7U6mNBkSGFPsHTaluLSGytwn9FNEhB4hPkj5bFLLAp-bEkqsS6vGhRiUFjSf5kpQI_EcChDNHXQGK2rIA",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJb97AKvVKtUYR3YtcNWaDs9c",
+      "rating" : 4.4,
+      "reference" : "CmRSAAAAqh0aRkOV-e674LtzWsTNoTlgryhII71y0gAb3RIzzQjyvnEQOfhVujrQnKKCsVtf9zhc4-C6sD9mHvQXKvqZmSuGOO87MDbO-IuJhw6doBzjFHN_kdSoa5LwmuDVuoWfEhBmT_oo-NqJ5tCrzx-qHs3oGhT7j97KDQlpePm2wHrGoaMGp8dctw",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "ul. Bolshaya Lubyanka, 30/2, Moscow, Russia, 107045",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.766201,
+          "lng" : 37.63145
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76625545000001,
+            "lng" : 37.63156240000001
+          },
+          "southwest" : {
+            "lat" : 55.76618284999999,
+            "lng" : 37.6311128
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "fcc52876db4e92b8db3733ce13975189e42ad20b",
+      "name" : "Defaqto",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115441645759942600498/photos\"\u003eAndrew Markin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAJ-o1kjJWcp9oVbyMf6tppqSdRGVTncoqocFgUfOKVvA7ah3YlfNET_C-n1xEsDbJczh-UreIQeivqtOcB89dg_eDOw6jmHFkKnxcGI-wcpAkcFTpR3k34yU9utovzLxIl5SxIH3ghP9B3yd9O51YSnkjDhAGzdMTDZ99F5jw3sBEhC1rM_Nqtb8SJqXpc1m21dHGhQnQx2gw87Lw2FzqkeHfXX7hxULJA",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJCVOZymdKtUYR3InxKPXeP7A",
+      "rating" : 4.4,
+      "reference" : "CmRSAAAAGgFJ6ctyCIkxlWIC593A4ycM0zLSiJhfE1hRXGmkzeczow1zhRMksr-P3OavLMpkGhsXCLBpv-O_dcmTWUoPs8CgyBpNUCdeSDfC-_H_-RQHkIneq5FgSqiYtfQEkaaLEhAhBT_JNMLEeEtkwe_1p6j9GhSuVoHYWw01BAtVxeS8TAd8xvwx4g",
+      "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Sadovaya-Kudrinskaya ul., 3а, Moscow, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.760125,
+          "lng" : 37.584451
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76018664999999,
+            "lng" : 37.58556594999999
+          },
+          "southwest" : {
+            "lat" : 55.75994005,
+            "lng" : 37.58407935
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "90ee029c9f0b01ec703991f74c9a48c256ebccd7",
+      "name" : "Tiki-Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113550364648878976065/photos\"\u003eWadim Astratow\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAFxv7cSsv6yv84R4F5kzW5L3Zf3U42m6fSWcdEk3zqYjy-r9OQ9xrQD16lMjCPd6C8WRd72xu1u2koyQnWqqB8TC6bCKpnOBSQZroqvaGfZ0h5_fRuhPo9cTKNqDWNfVdo2FkzIp4BMIrE6XGFmLVHzRxsQV1Y8_U95v0Tg8vq_WEhCqCz45GnDV3M9v_aYQArf3GhRLKaQ4RGCSi_Yza0s7c2HZv83qag",
+          "width" : 3984
+        }
+      ],
+      "place_id" : "ChIJSRbiKDRKtUYRGTLiJo94f3A",
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "CmRRAAAAHM2yXr3Qep_8KaLLBBMKEwAfOne28W0FwszNXvqZATtg87UoPWjGXbC89PVbymCpV6PeOITqmvAuRRnK1yz2ODHvmXlLA6GvxPqEdEdmlG0miqN6oFNKdh13eigFst2aEhBg9d5eoJBGEDgxM5aGBkQjGhQgsptXQACoSsdr3Qk50_SZyXNkyw",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Bolshoy Putinkovskiy per., 5, 3 Этаж, Moscow, Russia, 127006",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.76726799999999,
+          "lng" : 37.60765499999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76744599999999,
+            "lng" : 37.6082001
+          },
+          "southwest" : {
+            "lat" : 55.76673400000001,
+            "lng" : 37.6074733
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "c5dfb9a9f3fff14e73bae1aaee7cb8d652894ebf",
+      "name" : "Бар-ресторан СЧАСТЬЕ на Крыше",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3522,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110102551171076996694/photos\"\u003eБар-ресторан СЧАСТЬЕ на Крыше\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAI-uEjOuI0pwhxiTAvkp__oIjpQ2LRjtM-G6ct2Fa2VIj0xfcEr-fkhmtPoaDpSBkMOxGirNi5hjfioOQCTbcfNqFqEXMgcD4k3buNoUBJIXb6dT5TlMKo2f0fttqu6UjeYReVbHyp8oE02QPwRoN9YI5TmffENkaFxKlW7O9Ra2EhDJBYkPr_2Uieglb3m-SKDBGhQsnPC3ox-pRWYAmpKSlUnn9k0WyA",
+          "width" : 5402
+        }
+      ],
+      "place_id" : "ChIJ6zfw7EBKtUYR9j9M5LqLZi4",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAAtAXdlIB4XEtv9g1L51Q6wXnZtQjnFlpiB7MhRE2ANLizT6UumuJ5zoJ-0kuIqig3BTsTbBrOd376svOKijQFsvg4tBT-hUQ8-_AlRqHjQMlSWcgdkgj3wItbOeMTuXrgEhAUHIURrDkTSRr7UZuBrWYtGhSxdVY1XtkkX2tIGEi2Ldrd8y9tMA",
+      "types" : [
+        "restaurant",
+        "bakery",
+        "bar",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address" : "ул. Рочдельская, 15, стр. 19/20, Москва, г. Москва, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.755064,
+          "lng" : 37.562728
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "e31d1e0bd170bbd54de4e1734b3e24311c990d80",
+      "name" : "Duran Bar",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2976,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104705384663464867039/photos\"\u003eХонор8 Gold\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAJxmxKCBWo-qQi_HnusEt8H407dEOluXv5LixDbCd8gHkpyFkiGMd-Sy2Zz2KZ43sYh_3zBBaidW05VMVnEV6XCwjd-dpGEcj-ckmOokiQKSZljpL3OC_rr7cBbRiNa0gNtfgNS3t8x65aWmvckGFR4mWkdyPHBSQ7vw5NzWRhp-EhAKD4myipZdxGYHQTgyBsedGhTTMpNHn_DEYJaToUJcKc0OH8CZ_g",
+          "width" : 3968
+        }
+      ],
+      "place_id" : "ChIJx0jjss1LtUYReTY2ydD74xY",
+      "rating" : 4.3,
+      "reference" : "CmRRAAAA63UAMmAR1rFsgq7T9rD-WPnXT9KYddt-MLmkS7FY62tBfwau5Z85IVS7rNJwY_WDXUk8fq7OES0TRBD0Uraab3BNNivhN_bMUlU4btc9TCt97kUM_o420zgfC6z5WERgEhAAhemjU_dwPgsiiwa9qfQLGhT2Bl6JD6tMh4OXhg1ar06Yn2HwUw",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "с, Лесная ул., 20с1, Москва, Russia, 125047",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.78053,
+          "lng" : 37.592099
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.78070475,
+            "lng" : 37.5922197
+          },
+          "southwest" : {
+            "lat" : 55.78047175,
+            "lng" : 37.59173689999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "c0f07ebb799ff0af9ce1708981309f7ceca4e090",
+      "name" : "H2 Bar (Hudson Bar)",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3096,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101618850235423453466/photos\"\u003eБорис Зверев\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAKrVOh3sd-5zoS8HVqmpXERaAXXwjRMUB1VdsLHrFUo0rruQ4xeWt2tJFi8yIVBu2KoY58Hqqz_k8NaGLRyUFV6tY1tQp_nBWjJoAQ9pL8YMK-vjpNHutnlugZO37keLTiRVXlb0ooEmAdE-C3K5oOZ48OoVqwQoPkGuCT1Ci_-PEhBZlTHMVwVd54PN1TAHokJ0GhRfJplzfuxZ3I1hQxOsN93bezaO2A",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJAQAAACNKtUYRACkCLZg9ALE",
+      "rating" : 4.4,
+      "reference" : "CmRSAAAAowdNu5_GHcp4MYTRfzdmhRrl_455e1Dzuu5_e5huA13yW6bZ1jLdENf_2twY-bkSFw6Cb-8ffBF4jHLl9wR7Cf0bnMJMyhIJvXCcFwKpXiDwaSZoSFdXDcfa0Qx7kdybEhB-I8rzQ9qbEw4DJXZ2RORxGhQolx_dURvBdd1moLsYJqV01xqXuA",
+      "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Tsvetnoy Blvd, 5, Moscow, Russia, 127051",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7688139,
+          "lng" : 37.62080709999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76881465,
+            "lng" : 37.62126850000001
+          },
+          "southwest" : {
+            "lat" : 55.76881365000001,
+            "lng" : 37.62065329999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "1d1068ee8157c712845c0c48df887df637108ccc",
+      "name" : "Motel",
+      "photos" : [
+        {
+          "height" : 4608,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118295492654879317165/photos\"\u003eКирилл Пашковский\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAEgD5bDjDkyCDl8qjaYFaBooa49f2LpPlCLdzHhcI3SVU3JosM86K2K4AiF2HtEvR6UBidkbGH7iBPqBXDwmcLDinsNIDb2Eh2n7YUsmVWjA18dKpe1n2WoS__4ILgGK9cgfLxyIrzWw5yheVBilEvWJqnkqHH8mg-W9W1i9MmDHEhDkdSWXxAgDVgC1KK5oQAhIGhQ3KEK8nKPxCbtXRCXx5FlNiB5ueQ",
+          "width" : 2592
+        }
+      ],
+      "place_id" : "ChIJh2hKjGlKtUYRZaxmOjIvqxk",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAAfat4EDQ058nJA7J-1thfHYm5YRwOPrjOr3vshfwv-SUrCX6FUsoDRh4KBKR1qjSp_2VJUXMUZVuY4hADW9S5KfHFE46l5QYk5xZxgkV509osUcS8Yl_opvNHco1zvaHwEhBJXTeoNgnqhHqZzP0fOi9hGhT1IONzQOpgCwcF3ZYg8R4T3hpYyw",
+      "types" : [ "bar", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "ul. Presnenskiy Val, 6, стр. 1, Moscow, Russia, 123022",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.7643158,
+          "lng" : 37.5642809
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.76434595,
+            "lng" : 37.5644757
+          },
+          "southwest" : {
+            "lat" : 55.76430575,
+            "lng" : 37.56369650000001
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "fa88caa82f918c2f56b0e5f1856ca306dfc1a2db",
+      "name" : "16 Tons",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3072,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111907181135015649113/photos\"\u003eIlya Rodin\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAD3SaXxe_EvgQnLRDhmbc3DweNZ1647kPGJ2V2r5i7Zd4Mr0MLYp-24j8CyYaAW0sZifMCmbKFMeggN_Bur-DiAKxP0yR-FIANGFdp20OI9XDp9tCg6IADJC7vqiz1OFn7EK6w4o8haSyVcP3E7WRecaK_FBfOrMwiKyU1US4tpYEhBK0QAvQ3BSvKkhq7XmPq1rGhS-3V1Ul8osd2jfZvGYlMbnbjcmvQ",
+          "width" : 4096
+        }
+      ],
+      "place_id" : "ChIJrSJMXNJLtUYRrU_fYzmdxcA",
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "CmRSAAAAkwTXodvKTnhdeV2xbY1JEm2btrWkGKBWPUY-Rg1-FPiLP-bZBX6pHQNURqDuYFLWlqMZZEXJhnRcDWpm0HTzlnbhPmam-f5gRYpSYX1Ye5gVoLZWwKYr9-FupAP0f5lDEhCa2CDAymMuTeKQCh8DiBXtGhT91QMW9GZQufqb9yOcIHinlqy0FA",
+      "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "гостиница Космос, pr-t. Mira, 150, Moscow, г. Москва, Russia",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.8225401,
+          "lng" : 37.6469494
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.82368835,
+            "lng" : 37.6482672
+          },
+          "southwest" : {
+            "lat" : 55.82215735,
+            "lng" : 37.642996
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "e8f2d36aacbdfd75e56232060ccc8fc27df0ce39",
+      "name" : "Empress Hall",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 904,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112683442310783754651/photos\"\u003eИмпресс Холл\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAGlde0bzlq2xQLNddP-kGvokLGw-OcuU3e5TrwYXe-znQFB3LnIjlbdAgpFhemWsvwxiUJZ_jLQZ_EpFy7fBSmlZeyAgH5R2hiznZPjFU7gALOqk01W6g4rgtZkMnXeUuLcyusNQfYlBau6ynI4y5WKYdxAviH5YAtMHZBcZJVwCEhAp9QDPInAwK_pRAhGnVcyCGhRTGuggz6WxnRsBkhrIOJG6kBKxIQ",
+          "width" : 904
+        }
+      ],
+      "place_id" : "ChIJ93ZzH9g1tUYRb_Ps_PDLJ_E",
+      "rating" : 4.2,
+      "reference" : "CmRSAAAAPyM4j0iEKhEHbjtE3KPzcPgC_9fq3wSuMWOLiaDR9_J0rzMfcft6oU8c5Pk6DBtH6XVvQllEN4fBVVLraaSa1WT9rrZ8qPPva4KY2Ym2IOYQQKO7r6Y7WhFjjv8_FVw3EhCkLy_YU5Zx1LgO8ibSflKiGhT8KawS0jb3ZzAcOZKALJiqBI_CGA",
+      "types" : [
+        "restaurant",
+        "cafe",
+        "night_club",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address" : "Tverskaya St, 3, Moscow, Russia, 125009",
+      "geometry" : {
+        "location" : {
+          "lat" : 55.757255,
+          "lng" : 37.612775
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 55.75754495,
+            "lng" : 37.61295155000001
+          },
+          "southwest" : {
+            "lat" : 55.75715835,
+            "lng" : 37.61224535
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "fd4fc8e4cfb4bb5355303f8b4f2265d389d69485",
+      "name" : "The Ritz-Carlton Bar & Lobby Lounge",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "place_id" : "ChIJl6C3U0VKtUYRTeSAob6c1EI",
+      "price_level" : 4,
+      "reference" : "CmRRAAAAVUFylW8gXWNqIunfno49hjlUs1f0RGanr3027SEk1PsvFIiKpBC13OFdec2bzmEC3-QuVh7RbzohlTcoqt_F_l6D8CtHwcPoT7wZ-NbPRkM7x1gqrc2zslBJlc8MzFIhEhDVPRUV_-B6CIWbh-0UaAmSGhTALjN-NXvLzsdatNs1MICpE8Z64A",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+    }
+  ],
+  "status" : "OK"
+}
